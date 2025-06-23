@@ -1,4 +1,10 @@
 ### Total time: 30m
+### June 23:
+6h
+
+Did a ton of work on schematic and pcb, most of the time was spent reading the datasheet though.
+![](images/pcb2.png)![](images/sch1.png)
+
 ### June 22:
 2h
 
