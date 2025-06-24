@@ -1,4 +1,20 @@
-### Total time: 30m
+title: "ht-link"
+author: "@TheTridentGuy"
+description: "USB adapter to connect cheap handhelds to a computer"
+### Total time: 14h 30m
+### June 24:
+2h
+
+struggled with JLCPCB's website, and submitted to the gallery, also made a few minor pcb updates.
+
+
+### June 23 (Part 2):
+4h
+
+I thought I had finally quit circuit design (I hadn't):
+![](images/pcb3.png)
+![](images/sch2.png)
+
 ### June 23:
 6h
 
