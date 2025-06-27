@@ -2,6 +2,11 @@ title: "ht-link"
 author: "@TheTridentGuy"
 description: "USB adapter to connect cheap handhelds to a computer"
 ### Total time: 14h 30m
+### June 27:
+30m
+
+Touch up pcb, and get everything ready for submission
+
 ### June 24:
 2h
 
