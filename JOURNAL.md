@@ -2,6 +2,16 @@ title: "ht-link"
 author: "@TheTridentGuy"
 description: "USB adapter to connect cheap handhelds to a computer"
 ### Total time: 14h 30m
+
+### July 5:
+2h
+
+Update: I'm going to put this on hold until I can discuss PCB orderring with my reviewer.
+
+And after going further down the ordering road i have determined that i am fucked, and so i am replacing all the non-basic parts with equivalent basic parts. I hate jlcpcb.
+
+This project finally got approved, but I realized my USB connector is standard PCBA only, so I'm switching it to a economic compatible one. Since this took slightly more space for some reason, I had to move components, but everything except the exact model of USB connector is the same. The extended component fee was also exorbitant, so I chose not to place the LEDs and associated resistors.
+
 ### June 27:
 30m
 
