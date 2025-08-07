@@ -2,6 +2,8 @@ title: "ht-link"
 author: "@TheTridentGuy"
 description: "USB adapter to connect cheap handhelds to a computer"
 ### Total time: 14h 30m
+### August 7:
+PCB ordering was hell, but they finally came. I've been testing, and the only thing that I havent gotten working yet is PTT. Demo coming today!
 
 ### July 5:
 2h
